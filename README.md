@@ -8,6 +8,3 @@ Com esse curso, busco aprender melhor sobre as ferramentas git e github para con
 
 Modificação real para commit
 Edição de uma frase pela metade
-
-# Teste
-linha experimental
