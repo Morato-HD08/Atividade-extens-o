@@ -7,3 +7,4 @@ Com esse curso, busco aprender melhor sobre as ferramentas git e github para con
 - GitHub
 
 Modificação real para commit
+Edição de uma frase pela metade
